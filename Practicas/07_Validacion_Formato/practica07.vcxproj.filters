@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ItemGroup>
+    <Filter Include="Codigo fuente">
+      <UniqueIdentifier>{3909B9C6-C8BA-53B4-9EE9-B67640162EF6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="main.asm">
+      <Filter>Codigo fuente</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

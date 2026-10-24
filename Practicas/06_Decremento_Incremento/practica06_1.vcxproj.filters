@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ItemGroup>
+    <Filter Include="Codigo fuente">
+      <UniqueIdentifier>{58E6FC66-3367-5E43-939D-07F0A1871246}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="06-1-estacionamiento.asm">
+      <Filter>Codigo fuente</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>

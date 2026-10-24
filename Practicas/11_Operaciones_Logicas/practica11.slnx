@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="practica11.vcxproj" />
+</Solution>
